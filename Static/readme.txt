@@ -1,0 +1,1 @@
+for static files like css js or pics
